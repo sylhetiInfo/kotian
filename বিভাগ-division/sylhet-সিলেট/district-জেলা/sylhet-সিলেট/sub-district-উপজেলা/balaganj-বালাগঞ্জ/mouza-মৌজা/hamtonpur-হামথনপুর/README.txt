@@ -1,7 +1,6 @@
 In Bangla (বাংলা) it is spelt as হামথনপুর and হামতনপুর.
 In English it is spelt as Hamtonpur, Hamthonpur.
 It is pronounced by locals as 'Hamtonpur' or 'Amtonpur'.
-The mouza (মৌজা) id for Hamtonpur (হামতনপুর) is 16 (১৬).
 
 - মৌজা: হামথনপুর
 - mouza: Hamtonpur
@@ -15,4 +14,3 @@ The mouza (মৌজা) id for Hamtonpur (হামতনপুর) is 16 (১�
 - post office: umorpur or mullapara
 - পোস্টাল কোড: ৩১২৬
 - post office code : 3126
-
